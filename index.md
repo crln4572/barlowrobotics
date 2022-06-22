@@ -35,7 +35,8 @@
             <div class="link" id="code" style="margin-top:40px; width:400px">
                 <a href=outreach.html>OUTREACH</a>
                 </div>
-             
+            <div>
              <img src="https://ibb.co/Hr9PHTM" style="width:100; height:100">
+             </div>
             </center>
             </body>
