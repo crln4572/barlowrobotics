@@ -16,18 +16,18 @@ body{
         }
  .link{
             text-decoration: none;
-            background: inherit;
+            background: black;
             color: white;
         }
         .link:hover{
             text-decoration: none;
-            color: inherit;
+            color: black;
             background: white;
             transition: 0.3s;
         }
         .link:not(:hover){
             text-decoration: none;
-            background: inherit;
+            background: black;
             color: white;
             transition: 0.3s;
         }
@@ -38,7 +38,6 @@ body{
 
 #code{
     font-size: 50px;
-    backgroun: blue;
             text-align:center;
             font-family:'Arial';
 }
