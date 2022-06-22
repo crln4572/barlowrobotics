@@ -36,6 +36,6 @@
                 <a href=outreach.html>OUTREACH</a>
                 </div>
              
-             <img src="logo.png" style="width:100; height:100"> </img>
+             <img src="logo.png" style="width:100; height:100">
             </center>
             </body>
